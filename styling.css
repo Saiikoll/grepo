@@ -1,3 +1,8 @@
+.indicatorTiming{
+  font-size: 14px;
+  color: #3853b5;
+}
+
 .tile.farm_town {
   border: none;
 }
